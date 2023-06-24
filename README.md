@@ -1,2 +1,2 @@
-# Tek-t-kla-githubdan-dizin-g-ncelleme
+# Windowsda Bat Dosyası oluşturarak tek tıkla github dan pull kullanarak dizin güncellemek
 Bat Dosyası yardımıyla github dan pull kullanarak dizin güncellemek
